@@ -57,3 +57,5 @@ MANIFEST
 # Jupyter
 *.ipynb.url
 
+# Git
+.gitkeep
