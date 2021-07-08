@@ -22,7 +22,7 @@ This team consists of three (3) Summer 2021 APL ASPIRE Mentees, and one (1) APL 
 
 **Ian Thorpe, ASPIRE Mentee:** Ian is a rising junior at
 
-**Matt Montoya, ASPIRE Mentor:** Matt is a graduate student at Johns Hopkins University & works as a software engineer for JHU's Applied Physics laboratory. He graduated from the University of Texas at El Paso (UTEP) in 2020 with a B.S. in Computer Science. Before working full-time, Matt interned at APL & was an undergraduate research assistant at the Stanford Intelligent Systems Laboratory (SISL) at Stanford University. During his spare time, Matt enjoys skateboarding at the beach, exploring new restaurants around Los Angeles, & hiking in the Southern California mountains.
+**Matt Montoya, ASPIRE Mentor:** Matt is a graduate student at Johns Hopkins University & works as a software engineer for JHU's Applied Physics Laboratory. He graduated from the University of Texas at El Paso (UTEP) in 2020 with a B.S. in Computer Science. Before working full-time, Matt interned at APL & was an undergraduate research assistant at the Stanford Intelligent Systems Laboratory (SISL) at Stanford University. During his spare time, Matt enjoys skateboarding at the beach, exploring new restaurants around Los Angeles, & hiking in the Southern California mountains.
 
 ## Setup
 
