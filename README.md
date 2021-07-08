@@ -24,17 +24,17 @@ This team consists of three (3) Summer 2021 APL ASPIRE Mentees, and one (1) APL 
 
 **Matt Montoya, ASPIRE Mentor:** Matt is a graduate student at Johns Hopkins University & works as a software engineer for JHU's Applied Physics laboratory. He graduated from the University of Texas at El Paso (UTEP) in 2020 with a B.S. in Computer Science. Before working full-time, Matt interned at APL & was an undergraduate research assistant at the Stanford Intelligent Systems Laboratory (SISL) at Stanford University. During his spare time, Matt enjoys skateboarding at the beach, exploring new restaurants around Los Angeles, & hiking in the Southern California mountains.
 
-### Setup
+## Setup
 
-### Usage
+## Usage
 
-### Disclosures
+## Disclosures
 
 This project is unclassified, holds no material sensitivity, is not monetarily sponsored by or under any NDA by JHU, JHU/APL, or any of its sponsors & affiliates. Work on this project by any mentor(s) is completed on a voluntary basis and completed outside of billable time. The ASPIRE image used in this README file is an unclassified Zoom background.
 
 All personal information regarding team members is self-published by each respective person, with the complete understanding that this information will be publicly available. Personal information was last updated July 2021.
 
-### About JHU/APL ASPIRE
+## About JHU/APL ASPIRE
 
 The ASPIRE program at APL is a unique opportunity for high school juniors and seniors to experience and explore STEM careers before committing to an area of study in college. During the intensive summer session and the longer academic-year session, ASPIRE interns are paired with APL staff mentors to complete projects, solve problems, and learn and apply crucial technical and interpersonal skills in a hands-on, professional environment. During their internship, students also have access to many of APL’s considerable technical and professional resources. The ASPIRE program is an unpaid learning experience and is not a job. </br>
 
